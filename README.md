@@ -210,16 +210,17 @@ shell:startup
 Put RawAccel.bat in the Startup folder<br/>
 
 (Run as Admin)<br/>
-**Sens Multiplier** – controls the DPI to achieve better sensor tracking accuracy (set it high on the mouse, low in the game) Mouse DPI * Sens Multiplier = Desired DPI<br/>
+• **Sens Multiplier** – controls the DPI to achieve better sensor tracking accuracy (set it high on the mouse, low in the game)<br/>
+Mouse DPI * Sens Multiplier = Desired DPI<br/>
 Set DPI to 1600 and set Sens Multiplier to 0.5 gives you 800 DPI with higher reporting rate of 1600<br/>
-**Y/X Ratio** – splits your vertical and horizontal values by a multiple of the Y value<br/>
-**Rotation** – controls the rotation of the mouse based on your specific holding style<br/>
+• **Y/X Ratio** – splits your vertical and horizontal values by a multiple of the Y value<br/>
+• **Rotation** – controls the rotation of the mouse based on your specific holding style<br/>
 To configure, open Paint and draw a straight horizontal line, adjust rotation positive or negative until you achieve perfect horizontal lines while moving your mouse side-to-side as you would normally<br/>
-**Gain** – makes the accel transition smooth rather than abrupt<br/>
-**Acceleration** – amount of acceleration; start around .05 (try .02-.05)<br/>
-Cap Type – Output<br/>
-**Cap: Output** – after a certain Sens Multiplier stop accelerating (try 2 if Sens @.5)<br/>
-**Input Offset** – offsets your input to the right, stay at a given accel rate until you flick your mouse<br/>
+• **Gain** – makes the accel transition smooth rather than abrupt<br/>
+• **Acceleration** – amount of acceleration; start around .05 (try .02-.05)<br/>
+• **Cap Type** – Output<br/>
+• **Cap: Output** – after a certain Sens Multiplier stop accelerating (try 2 if Sens @.5)<br/>
+• **Input Offset** – offsets your input to the right, stay at a given accel rate until you flick your mouse<br/>
 
 </p>
 </details><hr/>
