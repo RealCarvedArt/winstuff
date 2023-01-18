@@ -154,6 +154,17 @@ Perform scaling on: ....................................................Display<
 </p>
 </details><hr/>
 
+<details><summary><h2>:sound: NVIDIA Broadcast</h2><br/>
+
+*AI-enhanced voice and video*</summary>
+
+<p>
+
+https://www.nvidia.com/en-us/geforce/broadcasting/broadcast-app/
+
+</p>
+</details><hr/>
+
 <details><summary><h2>:sound: Voicemeeter Potato</h2><br/>
 
 *Advanced virtual audio mixer*</summary>
