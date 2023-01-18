@@ -228,9 +228,31 @@ To configure, open Paint and draw a straight horizontal line, adjust rotation po
 
 
 
-<details><summary><h2>:video_game: CLICK ME</h2></summary>
+<details><summary><h2>:video_game: Dual Monitor Tools</h2><br/>
+
+*If you have a multimonitor setup use this to lock your cursor to your game screen*</summary>
+
 <p>
 
+https://dualmonitortool.sourceforge.net/download.html
+
+Run this to launch per program/game:
+
+```
+"C:\Program Files (x86)\Dual Monitor Tools\DMT.exe" DMT:Cursor:LockCursor
+```
+
+Setup a Hotkey to toggle the lock on and off<br/>
+Sticky → “Lock cursor onto screen” → Change…
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:video_game: CLICK</h2><br/>
+
+*Subtitle*</summary>
+
+<p>
 #### We can hide anything, even code!
 
 ```
@@ -240,9 +262,11 @@ To configure, open Paint and draw a straight horizontal line, adjust rotation po
 </p>
 </details><hr/>
 
-<details><summary><h2>:video_game: CLICK ME</h2></summary>
-<p>
+<details><summary><h2>:video_game: CLICK</h2><br/>
 
+*Subtitle*</summary>
+
+<p>
 #### We can hide anything, even code!
 
 ```
@@ -252,9 +276,11 @@ To configure, open Paint and draw a straight horizontal line, adjust rotation po
 </p>
 </details><hr/>
 
-<details><summary><h2>:video_game: CLICK ME</h2></summary>
-<p>
+<details><summary><h2>:video_game: CLICK</h2><br/>
 
+*Subtitle*</summary>
+
+<p>
 #### We can hide anything, even code!
 
 ```
@@ -264,9 +290,25 @@ To configure, open Paint and draw a straight horizontal line, adjust rotation po
 </p>
 </details><hr/>
 
-<details><summary><h2>:video_game: CLICK ME</h2></summary>
-<p>
+<details><summary><h2>:video_game: CLICK</h2><br/>
 
+*Subtitle*</summary>
+
+<p>
+#### We can hide anything, even code!
+
+```
+"Hello World"
+```
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:video_game: CLICK</h2><br/>
+
+*Subtitle*</summary>
+
+<p>
 #### We can hide anything, even code!
 
 ```
