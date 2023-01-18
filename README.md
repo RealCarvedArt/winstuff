@@ -313,16 +313,23 @@ https://www.embenco.nl/keys2xinput/
 </p>
 </details><hr/>
 
-<details><summary><h2>:video_game: CLICK</h2><br/>
+<details><summary><h2>:movie_camera: OBS (Open Broadcaster Software)</h2><br/>
 
-*Subtitle*</summary>
+*Free and open source software for video recording and live streaming*</summary>
 
 <p>
-#### We can hide anything, even code!
 
-```
-"Hello World"
-```
+https://obsproject.com
+
+#### Plugins
+
+OBS: https://obsproject.com/forum/resources/categories/obs-studio-plugins.6/
+
+StreamElements OBSLive (SE.Live): https://streamelements.com/obslive
+
+StreamFX: https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/
+
+RTMP-Services: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
 
 </p>
 </details><hr/>
