@@ -188,9 +188,9 @@ Bad icon or bad pin name are collateral effects of a bad installation or a previ
 https://github.com/a1xd/rawaccel
 
 1. Install Raw Accel:
-Place the folder in C:\Program Files
-Run installer.exe
-Reboot
+Place the folder in C:\Program Files<br/>
+Run installer.exe<br/>
+Reboot<br/>
 
 2. Make a .bat file (RawAccel.bat):
 
@@ -200,7 +200,7 @@ echo Starting up the Raw Accel . . .
 start "" "C:\Program Files\RawAccel\writer.exe" "C:\Program Files\RawAccel\settings.json"
 ```
 
-3. Press WIN+R
+3. Press WIN+R<br/>
 Type:
   
 ```
@@ -242,7 +242,7 @@ Run this to launch per program/game:
 "C:\Program Files (x86)\Dual Monitor Tools\DMT.exe" DMT:Cursor:LockCursor
 ```
 
-Setup a Hotkey to toggle the lock on and off<br/>
+Setup a Hotkey to toggle the lock on and off:<br/>
 Sticky → “Lock cursor onto screen” → Change…
 
 </p>
