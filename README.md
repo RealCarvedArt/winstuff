@@ -1,7 +1,6 @@
 # winstuff
 
-:computer:
-<details><summary>Chris Titus Tech’s Windows Utility<br/>
+<details><summary><h2>:computer: Chris Titus Tech’s Windows Utility</h2><br/>
   
 *Streamline installs, debloat with tweaks, troubleshoot with config, and fix Windows updates*</summary>
 
@@ -37,8 +36,7 @@ Select Tweaks → Desktop → Run Tweaks
 </p>
 </details><hr/>
 
-:computer:
-<details><summary>TCP Optimizer<br/>
+<details><summary><h2>:computer: TCP Optimizer</h2><br/>
 
 *Interface for tuning and optimizing your Internet connection*</summary>
 
@@ -65,8 +63,7 @@ https://www.speedguide.net/files/TCPOptimizer.exe
 </p>
 </details><hr/>
 
-:computer:
-<details><summary>Process Lasso<br/>
+<details><summary><h2>:computer: Process Lasso</h2><br/>
   
 *Real-Time CPU Optimization and Automation*</summary>
 
@@ -86,8 +83,7 @@ Download & install
 </p>
 </details><hr/>
 
-:computer:
-<details><summary>FanControl<br/>
+<details><summary><h2>:computer: FanControl</h2><br/>
 
 *Focused and highly customizable fan controlling software for Windows*</summary>
 
@@ -108,8 +104,7 @@ https://github.com/vision57/FanControl.GPU-Z
 </p>
 </details><hr/>
 
-:computer:
-<details><summary>NVIDIA Control Panel<br/>
+<details><summary><h2>:computer: NVIDIA Control Panel</h2><br/>
 
 *NVIDIA Video Card Performance Settings*</summary>
 
@@ -159,8 +154,7 @@ Perform scaling on: ....................................................Display<
 </p>
 </details><hr/>
 
-:space_invader:
-<details><summary>CLICK ME</summary>
+<details><summary><h2>:space_invader: CLICK ME</h2></summary>
 <p>
 
 #### We can hide anything, even code!
