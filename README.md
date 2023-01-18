@@ -179,6 +179,21 @@ Bad icon or bad pin name are collateral effects of a bad installation or a previ
 </p>
 </details><hr/>
 
+<details><summary><h2>:computer: COMODO Internet Security Premium</h2><br/>
+
+*Antivirus, Firewall, Sandbox, Host intrusion prevention & More*</summary>
+
+<p>
+
+https://antivirus.comodo.com/
+
+Click: "ACTIVE NOW"<br/>
+cispro_installer.exe<br/>
+https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=cav_installer&track=16905&af=16905
+
+</p>
+</details><hr/>
+
 <details><summary><h2>:space_invader: Driver booster</h2><br/>
 
 *Windows driver updater*</summary>
@@ -294,20 +309,6 @@ Open RivaTuner Statistics Server
 <p>
 
 https://www.embenco.nl/keys2xinput/
-
-</p>
-</details><hr/>
-
-<details><summary><h2>:video_game: CLICK</h2><br/>
-
-*Subtitle*</summary>
-
-<p>
-#### We can hide anything, even code!
-
-```
-"Hello World"
-```
 
 </p>
 </details><hr/>
