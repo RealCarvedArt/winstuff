@@ -190,20 +190,27 @@ Bad icon or bad pin name are collateral effects of a bad installation or a previ
 </p>
 </details><hr/>
 
-<details><summary><h2>:computer: COMODO Internet Security Premium</h2><br/>
+<details><summary><h2>:movie_camera: OBS (Open Broadcaster Software)</h2><br/>
 
-*Antivirus, Firewall, Sandbox, Host intrusion prevention & More*</summary>
+*Free and open source software for video recording and live streaming*</summary>
 
 <p>
 
-https://antivirus.comodo.com/
+https://obsproject.com
 
-Click: "ACTIVE NOW"<br/>
-cispro_installer.exe<br/>
-https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=cav_installer&track=16905&af=16905
+#### Plugins
+
+OBS: https://obsproject.com/forum/resources/categories/obs-studio-plugins.6/
+
+StreamElements OBSLive (SE.Live): https://streamelements.com/obslive
+
+StreamFX: https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/
+
+RTMP-Services: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
 
 </p>
 </details><hr/>
+
 
 <details><summary><h2>:space_invader: Driver booster</h2><br/>
 
@@ -324,23 +331,17 @@ https://www.embenco.nl/keys2xinput/
 </p>
 </details><hr/>
 
-<details><summary><h2>:movie_camera: OBS (Open Broadcaster Software)</h2><br/>
+<details><summary><h2>:computer: COMODO Internet Security Premium</h2><br/>
 
-*Free and open source software for video recording and live streaming*</summary>
+*Antivirus, Firewall, Sandbox, Host intrusion prevention & More*</summary>
 
 <p>
 
-https://obsproject.com
+https://antivirus.comodo.com/
 
-#### Plugins
-
-OBS: https://obsproject.com/forum/resources/categories/obs-studio-plugins.6/
-
-StreamElements OBSLive (SE.Live): https://streamelements.com/obslive
-
-StreamFX: https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/
-
-RTMP-Services: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
+Click: "ACTIVE NOW"<br/>
+cispro_installer.exe<br/>
+https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=cav_installer&track=16905&af=16905
 
 </p>
 </details><hr/>
