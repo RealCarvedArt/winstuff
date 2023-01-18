@@ -104,7 +104,7 @@ https://github.com/vision57/FanControl.GPU-Z
 </p>
 </details><hr/>
 
-<details><summary><h2>:computer: NVIDIA Control Panel</h2><br/>
+<details><summary><h2>:memo: NVIDIA Control Panel</h2><br/>
 
 *NVIDIA Video Card Performance Settings*</summary>
 
@@ -154,7 +154,7 @@ Perform scaling on: ....................................................Display<
 </p>
 </details><hr/>
 
-<details><summary><h2>:computer: Voicemeeter Potato</h2><br/>
+<details><summary><h2>:sound: Voicemeeter Potato</h2><br/>
 
 *Advanced virtual audio mixer*</summary>
 
