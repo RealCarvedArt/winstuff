@@ -179,6 +179,19 @@ Bad icon or bad pin name are collateral effects of a bad installation or a previ
 </p>
 </details><hr/>
 
+<details><summary><h2>:space_invader: Driver booster</h2><br/>
+
+*Windows driver updater*</summary>
+
+<p>
+
+https://www.iobit.com/en/driver-booster.php
+
+Get Giveaway License Key from YouTube<br/>
+Block: C:\Program Files (x86)\IObit\Driver Booster\xx.x.x\Pub\*.exe
+
+</p>
+</details><hr/>
 
 <details><summary><h2>:video_game: Raw Accel</h2><br/>
 
@@ -225,9 +238,6 @@ To configure, open Paint and draw a straight horizontal line, adjust rotation po
 </p>
 </details><hr/>
 
-
-
-
 <details><summary><h2>:video_game: Dual Monitor Tools</h2><br/>
 
 *If you have a multimonitor setup use this to lock your cursor to your game screen*</summary>
@@ -248,44 +258,42 @@ Sticky → “Lock cursor onto screen” → Change…
 </p>
 </details><hr/>
 
-<details><summary><h2>:video_game: CLICK</h2><br/>
+<details><summary><h2>:video_game: Desktop Overlay Host</h2><br/>
 
-*Subtitle*</summary>
+*MSI Afterburner + Riva Tuner Statistics Server OSD*</summary>
 
 <p>
-#### We can hide anything, even code!
+
+https://www.msi.com/Landing/afterburner/graphics-cards
+
+Create a shortcut:<br/>
+Target:
 
 ```
-"Hello World"
+"C:\Program Files (x86)\RivaTuner Statistics Server\SDK\Tools\DesktopOverlayHost\Release\DesktopOverlayHost.exe"
+
 ```
+Start in:
+
+```
+"C:\Program Files (x86)\RivaTuner Statistics Server\SDK\Tools\DesktopOverlayHost\Release"
+```
+
+Open RivaTuner Statistics Server
+1. Select → Setup → Plugins → OverlayEditor.dll → Setup
+2. “Data sources” → Edit → Add → MSI Afterburner → Edit → Add → MSI Afterburner → Check all you wish to add
+3. Select → Layouts → Edit → Ping address: qosping-aws-us-east-1.ol.epicgames.com
 
 </p>
 </details><hr/>
 
-<details><summary><h2>:video_game: CLICK</h2><br/>
+<details><summary><h2>:video_game: Keys2XInput</h2><br/>
 
-*Subtitle*</summary>
-
-<p>
-#### We can hide anything, even code!
-
-```
-"Hello World"
-```
-
-</p>
-</details><hr/>
-
-<details><summary><h2>:video_game: CLICK</h2><br/>
-
-*Subtitle*</summary>
+*Double Movement and Keyboard to controller remapping software*</summary>
 
 <p>
-#### We can hide anything, even code!
 
-```
-"Hello World"
-```
+https://www.embenco.nl/keys2xinput/
 
 </p>
 </details><hr/>
