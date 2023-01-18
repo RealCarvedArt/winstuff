@@ -154,14 +154,16 @@ Perform scaling on: ....................................................Display<
 </p>
 </details><hr/>
 
-<details><summary><h2>:space_invader: CLICK ME</h2></summary>
+<details><summary><h2>:computer: Voicemeeter Potato</h2><br/>
+
+*Advanced virtual audio mixer*</summary>
+
 <p>
+https://vb-audio.com/Voicemeeter/potato.htm
 
-#### We can hide anything, even code!
+#### Virtual Audio Cables
 
-```
-"Hello World"
-```
+https://vb-audio.com/Cable/index.htm
 
 #### TROUBLESHOOTING
 ==============
@@ -173,6 +175,102 @@ Bad icon or bad pin name are collateral effects of a bad installation or a previ
 2. Check there are no remaining devices in Windows Device Manager , if present, uninstall manually as explained in this topic: https://forum.vb-audio.com/viewtopic.php?f=7&t=688
 
 3. Uninstall Voicemeeter + REBOOT
+
+</p>
+</details><hr/>
+
+
+<details><summary><h2>:video_game: Raw Accel</h2><br/>
+
+*Windows mouse driver that enables acceleration of mouse input in the raw input stream*</summary>
+
+<p>
+https://github.com/a1xd/rawaccel
+
+1. Install Raw Accel:
+Place the folder in C:\Program Files
+Run installer.exe
+Reboot
+
+2. Make a .bat file (RawAccel.bat):
+
+```
+@echo off
+echo Starting up the Raw Accel . . .
+start "" "C:\Program Files\RawAccel\writer.exe" "C:\Program Files\RawAccel\settings.json"
+```
+
+3. Press WIN+R
+Type:
+  
+```
+shell:startup
+```
+
+Put RawAccel.bat in the Startup folder<br/>
+
+(Run as Admin)<br/>
+**Sens Multiplier** – controls the DPI to achieve better sensor tracking accuracy (set it high on the mouse, low in the game) Mouse DPI * Sens Multiplier = Desired DPI<br/>
+Set DPI to 1600 and set Sens Multiplier to 0.5 gives you 800 DPI with higher reporting rate of 1600<br/>
+**Y/X Ratio** – splits your vertical and horizontal values by a multiple of the Y value<br/>
+**Rotation** – controls the rotation of the mouse based on your specific holding style<br/>
+To configure, open Paint and draw a straight horizontal line, adjust rotation positive or negative until you achieve perfect horizontal lines while moving your mouse side-to-side as you would normally<br/>
+**Gain** – makes the accel transition smooth rather than abrupt<br/>
+**Acceleration** – amount of acceleration; start around .05 (try .02-.05)<br/>
+Cap Type – Output<br/>
+**Cap: Output** – after a certain Sens Multiplier stop accelerating (try 2 if Sens @.5)<br/>
+**Input Offset** – offsets your input to the right, stay at a given accel rate until you flick your mouse<br/>
+
+</p>
+</details><hr/>
+
+
+
+
+<details><summary><h2>:video_game: CLICK ME</h2></summary>
+<p>
+
+#### We can hide anything, even code!
+
+```
+"Hello World"
+```
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:video_game: CLICK ME</h2></summary>
+<p>
+
+#### We can hide anything, even code!
+
+```
+"Hello World"
+```
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:video_game: CLICK ME</h2></summary>
+<p>
+
+#### We can hide anything, even code!
+
+```
+"Hello World"
+```
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:video_game: CLICK ME</h2></summary>
+<p>
+
+#### We can hide anything, even code!
+
+```
+"Hello World"
+```
 
 </p>
 </details><hr/>
