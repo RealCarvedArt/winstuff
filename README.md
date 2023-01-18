@@ -31,7 +31,7 @@ Powershell.exe [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocol
 Run as Admin
 Select Tweaks → Desktop → Run Tweaks
 </p>
-</details>
+</details><hr/>
 
 <details><summary>CLICK ME</summary>
 <p>
@@ -43,7 +43,7 @@ Select Tweaks → Desktop → Run Tweaks
 ```
 
 </p>
-</details>
+</details><hr/>
 
 <details><summary>CLICK ME</summary>
 <p>
@@ -55,7 +55,7 @@ Select Tweaks → Desktop → Run Tweaks
 ```
 
 </p>
-</details>
+</details><hr/>
 
 <details><summary>CLICK ME</summary>
 <p>
@@ -67,7 +67,7 @@ Select Tweaks → Desktop → Run Tweaks
 ```
 
 </p>
-</details>
+</details><hr/>
 
 
 <details><summary>CLICK ME</summary>
@@ -79,9 +79,8 @@ Select Tweaks → Desktop → Run Tweaks
 "Hello World"
 ```
 
-<hr/>
-
 #### TROUBLESHOOTING
+==============
   
 Bad icon or bad pin name are collateral effects of a bad installation or a previous bad de-installation process. To solve this problem:
 
@@ -92,4 +91,4 @@ Bad icon or bad pin name are collateral effects of a bad installation or a previ
 3. Uninstall Voicemeeter + REBOOT
 
 </p>
-</details>
+</details><hr/>
