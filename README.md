@@ -55,7 +55,7 @@ https://www.speedguide.net/files/TCPOptimizer.exe
   b. TcpAckFrequency 1<br/>
   c. TCPNoDelay 1<br/>
   d. TcpDelAckTicks 0<br/>
-9. Apply changes<br/>
+9. Apply changes → Ok → Yes<br/>
 10. Reboot<br/>
 11. Give it a few to let windows load all the background stuff<br/>
 12. www.speedtest.net → go
