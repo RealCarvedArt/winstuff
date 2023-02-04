@@ -345,3 +345,14 @@ https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=ca
 
 </p>
 </details><hr/>
+
+<details><summary><h2>:computer: ExplorerPatcher</h2><br/>
+
+*Project that aims to enhance the working environment on Windows*</summary>
+
+<p>
+
+https://github.com/valinet/ExplorerPatcher/releases/
+
+</p>
+</details><hr/>
