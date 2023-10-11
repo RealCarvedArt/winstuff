@@ -348,7 +348,7 @@ https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=ca
 
 <details><summary><h2>:computer: ExplorerPatcher</h2><br/>
 
-*Project that aims to enhance the working environment on Windows* (Can cause issues when Windows updates)</summary>
+*Project that aims to enhance the working environment on Windows (Can cause issues when Windows updates)*</summary>
 
 <p>
 
