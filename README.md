@@ -331,6 +331,17 @@ https://www.embenco.nl/keys2xinput/
 </p>
 </details><hr/>
 
+<details><summary><h2>:video_game: Wooting Double Movement</h2><br/>
+
+*Double Movement and Keyboard to controller remapping software*</summary>
+
+<p>
+
+https://wooting.io/double-movement
+
+</p>
+</details><hr/>
+
 <details><summary><h2>:computer: COMODO Internet Security Premium</h2><br/>
 
 *Antivirus, Firewall, Sandbox, Host intrusion prevention & More*</summary>
