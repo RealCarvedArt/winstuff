@@ -243,7 +243,7 @@ Reboot<br/>
 ```
 @echo off
 echo Starting up the Raw Accel . . .
-start "" "C:\Program Files\RawAccel\writer.exe" "C:\Program Files\RawAccel\settings.json"
+start "" "%ProgramFiles%\RawAccel\writer.exe" "%ProgramFiles%\RawAccel\settings.json"
 ```
 
 3. Press WIN+R<br/>
@@ -282,7 +282,7 @@ https://dualmonitortool.sourceforge.net/download.html
 Run this to launch per program/game:
 
 ```
-"C:\Program Files (x86)\Dual Monitor Tools\DMT.exe" DMT:Cursor:LockCursor
+"%ProgramFiles(x86)%\Dual Monitor Tools\DMT.exe" DMT:Cursor:LockCursor
 ```
 
 Setup a Hotkey to toggle the lock on and off:<br/>
@@ -303,13 +303,13 @@ Create a shortcut:<br/>
 Target:
 
 ```
-"C:\Program Files (x86)\RivaTuner Statistics Server\SDK\Tools\DesktopOverlayHost\Release\DesktopOverlayHost.exe"
+"%ProgramFiles(x86)%\RivaTuner Statistics Server\SDK\Tools\DesktopOverlayHost\Release\DesktopOverlayHost.exe"
 
 ```
 Start in:
 
 ```
-"C:\Program Files (x86)\RivaTuner Statistics Server\SDK\Tools\DesktopOverlayHost\Release"
+"%ProgramFiles(x86)%\RivaTuner Statistics Server\SDK\Tools\DesktopOverlayHost\Release"
 ```
 
 Open RivaTuner Statistics Server
