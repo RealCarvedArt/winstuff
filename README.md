@@ -7,7 +7,7 @@
 <p>
 https://github.com/ChrisTitusTech/winutil
 
-Run one of these:
+Run one of these in PowerShell:
   
 ```powershell
 irm christitus.com/win | iex
