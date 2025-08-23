@@ -119,7 +119,7 @@ Antialiasing – Setting: ................................................None<b
 Antialiasing – Transparency: ........................................Off<br/>
 Background Application Max Frame Rate: .....................Off<br/>
 CUDA – GPUs: ..........................................................All<br/>
-DSR – Factors: ..........................................................Off<br/>
+DSR – Factors: ..........................................................Off (all unchecked)<br/>
 DSR – Smoothness: ..................................................Off<br/>
 Low Latency Mode: ....................................................On (Ultra for competitive gaming)<br/>
 Max Frame Rate: ......................................................Off<br/>
