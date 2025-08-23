@@ -123,6 +123,7 @@ DSR – Factors: ..........................................................Off (
 DSR – Smoothness: ..................................................Off<br/>
 Low Latency Mode: ....................................................On (Ultra for competitive gaming)<br/>
 Max Frame Rate: ......................................................Off<br/>
+Monitor Technology: .................................................. G-SYNC (or Fixed Refresh if unsupported)<br/>
 Multi-Frame Sampled AA (MFAA) ..................................Off<br/>
 OpenGL rendering GPU: .............................................NVIDIA GeForce RTX ... (Pick your card)<br/>
 Power management mode: .........................................Prefer Maximum Performance<br/>
