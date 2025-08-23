@@ -357,13 +357,13 @@ https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=ca
 </p>
 </details><hr/>
 
-<details><summary><h2>:computer: ExplorerPatcher</h2><br/>
+<details><summary><h2>:computer: Core Temp</h2><br/>
 
-*Project that aims to enhance the working environment on Windows (Can cause issues when Windows updates)*</summary>
+*Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.*</summary>
 
 <p>
 
-https://github.com/valinet/ExplorerPatcher/releases/
+https://www.alcpu.com/CoreTemp/
 
 </p>
 </details><hr/>
