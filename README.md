@@ -365,5 +365,8 @@ https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=ca
 
 https://www.alcpu.com/CoreTemp/
 
+Click: "More downloads..."<br/>
+Download the standalone version of Core Temp: 32 Bit 64 Bit<br/>
+
 </p>
 </details><hr/>
