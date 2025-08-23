@@ -21,10 +21,6 @@ Alternate Stable Branch Commands
 iwr -useb https://christitus.com/win | iex
 ```
 
-```powershell
-[Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')
-```
-
 Dev Branch
 ```powershell
 irm "https://christitus.com/windev" | iex
@@ -34,8 +30,10 @@ irm "https://christitus.com/windev" | iex
 
 Make a .bat file (Chris Titus Tech's Windows Utility.bat):
   
-```powershell
-Powershell.exe [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')
+```batch
+@echo off
+title Chris Titus Tech Windows Utility Launcher
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -useb https://christitus.com/win | iex"
 ```
 
 Run as Admin
