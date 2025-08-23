@@ -14,6 +14,9 @@ Stable Branch (Recommended)
 irm christitus.com/win | iex
 ```
 
+---or---
+
+Alternate Stable Branch Commands
 ```powershell
 iwr -useb https://christitus.com/win | iex
 ```
