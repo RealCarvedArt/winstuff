@@ -125,6 +125,7 @@ Low Latency Mode: ....................................................On (Ultra 
 Max Frame Rate: ......................................................Off<br/>
 Monitor Technology: .................................................. G-SYNC (or Fixed Refresh if unsupported)<br/>
 Multi-Frame Sampled AA (MFAA) ..................................Off<br/>
+OpenGL GDI compatibility: ............................................ Prefer Performance<br/>
 OpenGL rendering GPU: .............................................NVIDIA GeForce RTX ... (Pick your card)<br/>
 Power management mode: .........................................Prefer Maximum Performance<br/>
 Preferred refresh rate (Your monitor): ..........................Highest available<br/>
@@ -138,6 +139,7 @@ Triple buffering: .........................................................Off<b
 Vertical sync: .............................................................Off<br/>
 Virtual Reality pre-rendered frames: .............................1<br/>
 Virtual Reality – Variable Rate Super Sampling: ............Off<br/>
+Vulkan/OpenGL present method: ...................................... Prefer Native (Auto if unsure; DXGI Swapchain for compatibility)<br/>
 
 #### CHANGE RESOLUTION<br/>
 Refresh rate: ..............................................................(Your monitor's max)<br/>
