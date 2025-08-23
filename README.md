@@ -11,10 +11,10 @@ Run one of these in PowerShell:
 
 Stable Branch (Recommended)
 ```powershell
-irm christitus.com/win | iex
+irm "https://christitus.com/win" | iex
 ```
 ```powershell
-iwr -useb https://christitus.com/win | iex
+iwr -useb "https://christitus.com/win" | iex
 ```
 
 ---or---
@@ -24,7 +24,7 @@ Dev Branch
 irm "https://christitus.com/windev" | iex
 ```
 ```powershell
-iwr -useb https://christitus.com/windev | iex
+iwr -useb "https://christitus.com/windev" | iex
 ```
 
 ---or---
