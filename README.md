@@ -8,7 +8,8 @@
 https://github.com/ChrisTitusTech/winutil
 
 Run one of these in PowerShell:
-  
+
+Stable Branch (Recommended)
 ```powershell
 irm christitus.com/win | iex
 ```
@@ -19,6 +20,11 @@ iwr -useb https://christitus.com/win | iex
 
 ```powershell
 [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12;iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/ChrisTitusTech/winutil/main/winutil.ps1')
+```
+
+Dev Branch
+```powershell
+irm "https://christitus.com/windev" | iex
 ```
 
 ---or---
