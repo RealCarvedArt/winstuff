@@ -13,17 +13,18 @@ Stable Branch (Recommended)
 ```powershell
 irm christitus.com/win | iex
 ```
-
----or---
-
-Alternate Stable Branch Commands
 ```powershell
 iwr -useb https://christitus.com/win | iex
 ```
 
+---or---
+
 Dev Branch
 ```powershell
 irm "https://christitus.com/windev" | iex
+```
+```powershell
+iwr -useb https://christitus.com/windev | iex
 ```
 
 ---or---
