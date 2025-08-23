@@ -106,50 +106,48 @@ https://github.com/vision57/FanControl.GPU-Z
 
 <details><summary><h2>:memo: NVIDIA Control Panel</h2><br/>
 
-*NVIDIA Video Card Performance Settings*</summary>
+*NVIDIA Video Card Performance Settings (2025 Optimized)*</summary>
 
-#### NVIDIA CONTROL PANEL<br/>
-#### MANAGE 3D SETTINGS<br/>
+#### NVIDIA CONTROL PANEL → MANAGE 3D SETTINGS<br/>
 Image Scaling: ..........................................................Off<br/>
 Ambient Occlusion: ....................................................Off<br/>
-Anisotropic filtering: ...................................................Off<br/>
-Antialiasing – FXAA: ...................................................Off<br/>
+Anisotropic filtering: ..................................................Off<br/>
+Antialiasing – FXAA: ..................................................Off<br/>
 Antialiasing – Gamma correction: .................................Off<br/>
-Antialiasing – Mode: ...................................................Off<br/>
+Antialiasing – Mode: ..................................................Off<br/>
 Antialiasing – Setting: ................................................None<br/>
 Antialiasing – Transparency: ........................................Off<br/>
-Background Application Max Frame Rate: ......................Off<br/>
-CUDA – GPUs: ...........................................................All<br/>
-DSR – Factors: ..........................................................2.00x (native resolution)<br/>
-DSR – Smoothness: ...................................................33%<br/>
-Low Latency Mode: .....................................................Off<br/>
-Max Frame Rate: .......................................................Off<br/>
+Background Application Max Frame Rate: .....................Off<br/>
+CUDA – GPUs: ..........................................................All<br/>
+DSR – Factors: ..........................................................Off<br/>
+DSR – Smoothness: ..................................................Off<br/>
+Low Latency Mode: ....................................................On (Ultra for competitive gaming)<br/>
+Max Frame Rate: ......................................................Off<br/>
 Multi-Frame Sampled AA (MFAA) ..................................Off<br/>
-OpenGL rendering GPU: ..............................................NVIDIA GeForce RTX ... (Pick your card)<br/>
-Power management mode: ..........................................Prefer Maximum Performance<br/>
+OpenGL rendering GPU: .............................................NVIDIA GeForce RTX ... (Pick your card)<br/>
+Power management mode: .........................................Prefer Maximum Performance<br/>
 Preferred refresh rate (Your monitor): ..........................Highest available<br/>
-Shader Cache Size: ....................................................5 GB<br/>
-Texture filtering – Anisotropic sample option: ................On<br/>
-Texture filtering – Negative LOD bias: ..........................Allow<br/>
-Texture filtering – Quality: ..........................................High Performance<br/>
-Texture filtering – Trilinear optimization: .......................On<br/>
-Threaded optimization: ...............................................On<br/>
+Shader Cache Size: ..................................................Driver Default (or Unlimited)<br/>
+Texture filtering – Anisotropic sample option: ...............On<br/>
+Texture filtering – Negative LOD bias: .........................Allow<br/>
+Texture filtering – Quality: .........................................High Performance<br/>
+Texture filtering – Trilinear optimization: ......................On<br/>
+Threaded optimization: ..............................................Auto<br/>
 Triple buffering: .........................................................Off<br/>
-Vertical sync:.............................................................Off<br/>
+Vertical sync: .............................................................Off<br/>
 Virtual Reality pre-rendered frames: .............................1<br/>
-Virtual Reality – Variable Rate Super Sampling: .............Off<br/>
+Virtual Reality – Variable Rate Super Sampling: ............Off<br/>
 
 #### CHANGE RESOLUTION<br/>
-Refresh rate: .............................................................(Your monitor's max)<br/>
+Refresh rate: ..............................................................(Your monitor's max)<br/>
 Use NVIDIA color settings:<br/>
-Highest 32<br/>
-YcbCr422<br/>
-10 bpc ......................................................................(Based on monitor max res)<br/>
-Limited<br/>
+Output color format: ...................................................RGB<br/>
+Output color depth: ....................................................10 bpc (or highest supported)<br/>
+Output dynamic range: ................................................Full<br/>
 
 #### ADJUST DESKTOP SIZE AND POSITION<br/>
-Aspect ratio<br/>
-Perform scaling on: ....................................................Display<br/>
+Scaling mode: ............................................................Aspect ratio<br/>
+Perform scaling on: .....................................................Display<br/>
 
 </p>
 </details><hr/>
