@@ -34,7 +34,7 @@ Make a .bat file (Chris Titus Tech's Windows Utility.bat):
 ```batch
 @echo off
 title Chris Titus Tech Windows Utility Launcher
-powershell -NoProfile -ExecutionPolicy Bypass -Command "iwr -useb https://christitus.com/win | iex"
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "iwr -useb https://christitus.com/win | iex"
 ```
 
 Run as Admin
@@ -80,13 +80,13 @@ https://dl.bitsum.com/files/processlassosetup64.exe
 
 Download & install
 1. Main → Enable ProBalance, IdleSaver, & Performance<br/>
-2. Options → CPU → ProBalance<br/>
-3. Options → Power → Performance Mode → Change Power Profile when Engaged<br/>
+2. Options → CPU → ProBalance → ✅Enable ProBalance<br/>
+3. Options → Power → Performance Mode → ✅Change Power Profile when Engaged<br/>
 4. Options → Power → Performance Mode → Select power profile → Bitsum Highest Performance<br/>
-5. Options → Power → Performance Mode → Enable Automatic Detection (e.g. Steam)<br/>
-6. Options → Power → Performance Mode → Disable IdleSaver whille Performance Mode Engaged<br/>
-7. Options → Power → Performance Mode → Start Process Lasso with Power Profile → Bitsum Highest Performance<br/>
-8. Options → Power → Performance Mode → IdleSaver → Switch to this power profile: → AMD Ryzen™ Balanced [-OR-] Balanced<br/>
+5. Options → Power → Performance Mode → ✅Enable Automatic Detection (e.g. Steam)<br/>
+6. Options → Power → Performance Mode → ✅Disable IdleSaver whille Performance Mode Engaged<br/>
+7. Options → Power → Performance Mode → Start Process Lasso with Power Profile → ✅Bitsum Highest Performance<br/>
+8. Options → Power → Performance Mode → IdleSaver → Switch to this power profile: → ✅AMD Ryzen™ Balanced [-OR-] ✅Balanced<br/>
 
 </p>
 </details><hr/>
