@@ -230,7 +230,11 @@ RTMP-Services: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plug
 https://www.iobit.com/en/driver-booster.php
 
 Get Giveaway License Key from YouTube<br/>
-Block: C:\Program Files (x86)\IObit\Driver Booster\xx.x.x\Pub\*.exe
+Block: C:\Program Files (x86)\IObit\Driver Booster\Pub\*.exe
+In Comodo Internet Security:
+ Firewall → Application Rules → ➕Add
+ Name: C:\Program Files (x86)\IObit\Driver Booster\Pub\*.exe
+ Action: Block | Protocol: IP | Direction: In or Out| Source: Any | Destination: Any | Description Block and Log All Requests
 
 </p>
 </details><hr/>
