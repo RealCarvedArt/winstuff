@@ -112,6 +112,20 @@ https://github.com/vision57/FanControl.GPU-Z
 </p>
 </details><hr/>
 
+<details><summary><h2>:computer: Core Temp</h2><br/>
+
+*Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.*</summary>
+
+<p>
+
+https://www.alcpu.com/CoreTemp/
+
+Click: "More downloads..."<br/>
+Download the standalone version of Core Temp: 32 Bit 64 Bit<br/>
+
+</p>
+</details><hr/>
+
 <details><summary><h2>:memo: NVIDIA Control Panel</h2><br/>
 
 *NVIDIA Video Card Performance Settings (2025 Optimized)*</summary>
@@ -216,30 +230,6 @@ StreamElements OBSLive (SE.Live): https://streamelements.com/obslive
 StreamFX: https://obsproject.com/forum/resources/streamfx-for-obs%C2%AE-studio.578/
 
 RTMP-Services: https://obsproject.com/forum/resources/multiple-rtmp-outputs-plugin.964/
-
-</p>
-</details><hr/>
-
-
-<details><summary><h2>:space_invader: Driver booster</h2><br/>
-
-*Windows driver updater*</summary>
-
-<p>
-
-https://www.iobit.com/en/driver-booster.php
-
-Get Giveaway License Key from YouTube<br/>
-✳️Block: C:\Program Files (x86)\IObit\Driver Booster\Pub\*.exe<br/>
-In Comodo Internet Security:<br/>
- - Firewall → Application Rules → ➕Add<br/>
- - Name: C:\Program Files (x86)\IObit\Driver Booster\Pub\*.exe<br/>
- - Action: Block<br/>
- - Protocol: IP<br/>
- - Direction: In or Out<br/>
- - Source: Any<br/>
- - Destination: Any<br/>
- - Description: Block and Log All Requests
 
 </p>
 </details><hr/>
@@ -360,6 +350,29 @@ https://wooting.io/double-movement
 </p>
 </details><hr/>
 
+<details><summary><h2>:space_invader: Driver booster</h2><br/>
+
+*Windows driver updater*</summary>
+
+<p>
+
+https://www.iobit.com/en/driver-booster.php
+
+Get Giveaway License Key from YouTube<br/>
+✳️Block: C:\Program Files (x86)\IObit\Driver Booster\Pub\*.exe<br/>
+In Comodo Internet Security:<br/>
+ - Firewall → Application Rules → ➕Add<br/>
+ - Name: C:\Program Files (x86)\IObit\Driver Booster\Pub\*.exe<br/>
+ - Action: Block<br/>
+ - Protocol: IP<br/>
+ - Direction: In or Out<br/>
+ - Source: Any<br/>
+ - Destination: Any<br/>
+ - Description: Block and Log All Requests
+
+</p>
+</details><hr/>
+
 <details><summary><h2>:computer: COMODO Internet Security Premium</h2><br/>
 
 *Antivirus, Firewall, Sandbox, Host intrusion prevention & More*</summary>
@@ -371,20 +384,6 @@ https://antivirus.comodo.com/
 Click: "ACTIVE NOW"<br/>
 cispro_installer.exe<br/>
 https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=cav_installer&track=16905&af=16905
-
-</p>
-</details><hr/>
-
-<details><summary><h2>:computer: Core Temp</h2><br/>
-
-*Core Temp is a compact, no fuss, small footprint, yet powerful program to monitor processor temperature and other vital information.*</summary>
-
-<p>
-
-https://www.alcpu.com/CoreTemp/
-
-Click: "More downloads..."<br/>
-Download the standalone version of Core Temp: 32 Bit 64 Bit<br/>
 
 </p>
 </details><hr/>
