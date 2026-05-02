@@ -42,6 +42,7 @@ Run as Admin
 Select Tweaks → Desktop → Run Tweaks
 
 Bypass NRO
+
 Press Shift-F10 when the OOBE window opens, then type:
 ```
 start ms-cxh:localonly
@@ -50,6 +51,7 @@ start ms-cxh:localonly
 ---or---
 
 New bypass NRO
+
 Make and run bypass cmd:
 
 ```
