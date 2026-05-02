@@ -41,6 +41,11 @@ Run as Admin
 
 Select Tweaks → Desktop → Run Tweaks
 
+Bypass nro
+```
+Shift-F10 start ms-cxh:localonly
+```
+
 </p>
 </details><hr/>
 
