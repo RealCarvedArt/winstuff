@@ -48,7 +48,7 @@ Shift-F10 start ms-cxh:localonly
 
 ---or---
 
-New bypass neo
+New bypass nro
 
 ```
 curl -L -o C:\Windows\Panther\unattend.xml https://raw.githubusercontent.com/ChrisTitusTech/bypassnro/refs/heads/main/unattend.xml
