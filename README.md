@@ -41,14 +41,16 @@ Run as Admin
 
 Select Tweaks → Desktop → Run Tweaks
 
-Bypass nro
+Bypass NRO
+Press Shift-F10 when the OOBE window opens, then type:
 ```
-Shift-F10 start ms-cxh:localonly
+start ms-cxh:localonly
 ```
 
 ---or---
 
-New bypass nro
+New bypass NRO
+Make and run bypass cmd:
 
 ```
 curl -L -o C:\Windows\Panther\unattend.xml https://raw.githubusercontent.com/ChrisTitusTech/bypassnro/refs/heads/main/unattend.xml
@@ -57,6 +59,7 @@ curl -L -o C:\Windows\Panther\unattend.xml https://raw.githubusercontent.com/Chr
 
 ---or---
 
+Edit the registry:
 ```
 reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f
 shutdown /r /t 0
