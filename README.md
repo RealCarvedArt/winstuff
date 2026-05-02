@@ -55,6 +55,13 @@ curl -L -o C:\Windows\Panther\unattend.xml https://raw.githubusercontent.com/Chr
 %WINDIR%\System32\Sysprep\Sysprep.exe /oobe /unattend:C:\Windows\Panther\unattend.xml /reboot
 ```
 
+---or---
+
+```
+reg add HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\OOBE /v BypassNRO /t REG_DWORD /d 1 /f
+shutdown /r /t 0
+```
+
 </p>
 </details><hr/>
 
