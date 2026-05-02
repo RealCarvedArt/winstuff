@@ -41,7 +41,7 @@ Run as Admin
 
 Select Tweaks → Desktop → Run Tweaks
 
--------
+---
 
 Bypass NRO
 
