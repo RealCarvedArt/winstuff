@@ -41,6 +41,8 @@ Run as Admin
 
 Select Tweaks → Desktop → Run Tweaks
 
+-------
+
 Bypass NRO
 
 Press Shift-F10 when the OOBE window opens, then type:
