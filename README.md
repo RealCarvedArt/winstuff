@@ -156,7 +156,7 @@ Download the standalone version of Core Temp: 32 Bit 64 Bit<br/>
 
 <details><summary><h2>:memo: NVIDIA Control Panel</h2><br/>
 
-*NVIDIA Video Card Performance Settings (2025 Optimized)*</summary>
+*NVIDIA Video Card Performance Settings (2026 Optimized)*</summary>
 
 #### NVIDIA CONTROL PANEL → MANAGE 3D SETTINGS<br/>
 Image Scaling: ..........................................................Off<br/>
@@ -167,21 +167,22 @@ Antialiasing – Gamma correction: .................................Off<br/>
 Antialiasing – Mode: ..................................................Off<br/>
 Antialiasing – Setting: ................................................None<br/>
 Antialiasing – Transparency: ........................................Off<br/>
-Background Application Max Frame Rate: .....................Off<br/>
+Background Application Max Frame Rate: .....................30 (or Off)<br/>
 CUDA – GPUs: ..........................................................All<br/>
+CUDA - Sysmem Fallback Policy ................ Driver Default (RTX cards, newer drivers; affects CUDA apps, not games)<br/>
 DSR – Factors: ..........................................................Off (all unchecked)<br/>
 DSR – Smoothness: ..................................................Off<br/>
 Low Latency Mode: ....................................................On (Ultra for competitive gaming)<br/>
-Max Frame Rate: ......................................................Off<br/>
-Monitor Technology: .................................................. G-SYNC (or Fixed Refresh if unsupported)<br/>
+Max Frame Rate: ......................................................Off (uncapped)<br/>
+Monitor Technology: .................................................. Fixed Refresh<br/>
 Multi-Frame Sampled AA (MFAA) ..................................Off<br/>
 OpenGL GDI compatibility: ............................................ Prefer Performance<br/>
 OpenGL rendering GPU: .............................................NVIDIA GeForce RTX ... (Pick your card)<br/>
 Power management mode: .........................................Prefer Maximum Performance<br/>
 Preferred refresh rate (Your monitor): ..........................Highest available<br/>
-Shader Cache Size: ..................................................Driver Default (or Unlimited)<br/>
+Shader Cache Size: ..................................................Unlimited (or 10 GB)<br/>
 Texture filtering – Anisotropic sample option: ...............On<br/>
-Texture filtering – Negative LOD bias: .........................Allow<br/>
+Texture filtering – Negative LOD bias: .........................Allow (if present)<br/>
 Texture filtering – Quality: .........................................High Performance<br/>
 Texture filtering – Trilinear optimization: ......................On<br/>
 Threaded optimization: ..............................................Auto<br/>
@@ -195,11 +196,11 @@ Vulkan/OpenGL present method: ...................................... Prefer Nati
 Refresh rate: ..............................................................(Your monitor's max)<br/>
 Use NVIDIA color settings:<br/>
 Output color format: ...................................................RGB<br/>
-Output color depth: ....................................................10 bpc (or highest supported)<br/>
+Output color depth: ....................................................8 bpc<br/>
 Output dynamic range: ................................................Full<br/>
 
 #### ADJUST DESKTOP SIZE AND POSITION<br/>
-Scaling mode: ............................................................Aspect ratio<br/>
+Scaling mode: ............................................................No scaling (GPU does zero work)<br/>
 Perform scaling on: .....................................................Display<br/>
 
 </p>
@@ -412,6 +413,46 @@ https://antivirus.comodo.com/
 Click: "ACTIVE NOW"<br/>
 cispro_installer.exe<br/>
 https://antivirus.comodo.com/download/thank-you.php?prod=cloud-antivirus&from=cav_installer&track=16905&af=16905
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:computer: Everything</h2><br/>
+
+*"Everything" is a search engine that locates files and folders by filename instantly for Windows*</summary>
+
+<p>
+
+https://www.voidtools.com/
+
+Download Everything<br/>
+https://www.voidtools.com/downloads/
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:computer: Revo Uninstaller Free</h2><br/>
+*Revo Uninstaller Pro helps you to uninstall software and remove unwanted programs easily*</summary>
+
+<p>
+
+https://www.revouninstaller.com/
+
+Download Revo Uninstaller Free<br/>
+https://www.revouninstaller.com/start-freeware-download/
+
+</p>
+</details><hr/>
+
+<details><summary><h2>:computer: Revo Registry Cleaner Free</h2><br/>
+*Clean, tune and optimize your Registry. Safely*</summary>
+
+<p>
+
+https://www.revouninstaller.com/
+
+Download Revo Registry Cleaner Free<br/>
+https://www.revouninstaller.com/products/revo-registry-cleaner-free/
 
 </p>
 </details><hr/>
