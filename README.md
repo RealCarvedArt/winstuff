@@ -432,6 +432,7 @@ https://www.voidtools.com/downloads/
 </details><hr/>
 
 <details><summary><h2>:computer: Revo Uninstaller Free</h2><br/>
+
 *Revo Uninstaller Pro helps you to uninstall software and remove unwanted programs easily*</summary>
 
 <p>
@@ -445,6 +446,7 @@ https://www.revouninstaller.com/start-freeware-download/
 </details><hr/>
 
 <details><summary><h2>:computer: Revo Registry Cleaner Free</h2><br/>
+
 *Clean, tune and optimize your Registry. Safely*</summary>
 
 <p>
